@@ -1,0 +1,32 @@
+#row{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-around;
+  }
+  #wait{
+    color: 
+    #003FB9;
+    font-size: 40px;
+    font-weight: 600px;
+    line-height: 54px;
+  }
+  #now{
+    margin-top: 4rem;
+    color: #555555;
+    font-size: 20px;
+  }
+  #main{
+    display: flex;
+    margin-top: 5rem;
+    justify-content: space-between;
+    width: 500px;
+  }
+  
+#two-pic{
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+  }
+  #set{
+    width: 200px;
+  }

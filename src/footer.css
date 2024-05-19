@@ -1,0 +1,33 @@
+#last{
+    margin-top: 3rem;
+  }
+  #one{
+    color: rgba(137, 43, 226, 0.636);
+    font-size: 50px;
+    font-weight: bold;
+  }
+  #user{
+    color: rgba(137, 43, 226, 0.257);
+    font-size: 40px;
+    font-weight: normal;
+  }
+  #one1{
+    color:rgba(255, 0, 0, 0.508);
+    font-size: 50px;
+    font-weight: bold;
+  }
+  #user1{
+    color: rgba(255, 0, 0, 0.274);
+    font-size: 40px;
+    font-weight: normal;
+  }
+  #one2{
+    color:rgba(0, 128, 0, 0.571);
+    font-size: 50px;
+    font-weight: bold;
+  }
+  #user2{
+    color: rgba(0, 128, 0, 0.331);
+    font-size: 40px;
+    font-weight: normal;
+  }
